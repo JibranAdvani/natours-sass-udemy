@@ -1,2 +1,2 @@
-# natours-sass-udemy-
+# natours-sass-udemy
 Landing page using Sass
